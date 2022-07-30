@@ -15,20 +15,20 @@ class App extends React.Component {
       <MainContainer>
         <Post
           nomeUsuario={'Paulinha'}
-          fotoUsuario={'https://picsum.photos/50/50'}
+          fotoUsuario={'https://picsum.photos/id/1/200/300'}
           fotoPost={'https://picsum.photos/200/150'}
         />
 
         <Post
           nomeUsuario={'Luiz'}
-          fotoUsuario={'https://picsum.photos/50/50'}
-          fotoPost={'https://picsum.photos/200/150'}
+          fotoUsuario={'https://picsum.photos/50/51'}
+          fotoPost={'https://picsum.photos/200/151'}
         />
 
         <Post
           nomeUsuario={'Filipe'}
           fotoUsuario={'https://picsum.photos/50/50'}
-          fotoPost={'https://picsum.photos/200/150'}
+          fotoPost={'https://picsum.photos/200/152'}
         />
       
       
